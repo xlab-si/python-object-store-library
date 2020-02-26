@@ -1,0 +1,4 @@
+minio==5.0.4
+boto3==1.10.9
+azure==4.0.0
+azure-storage==0.36.0
